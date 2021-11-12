@@ -31,7 +31,7 @@ const Auth = () => {
         // *USE BELOW URL WHEN RUNNING ON LOCAL MACHINE
         // const URL = 'http://localhost:5000/auth';
 
-        // *USE BELOW URL AFTER DEPLOYING
+        // *USE  BELOW  URL  AFTER  DEPLOYING
         const URL = "https://kbvsp-chat-webapp.herokuapp.com/auth"
         // const URL = 'https://medical-pager.herokuapp.com/auth';
 
